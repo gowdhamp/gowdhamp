@@ -34,7 +34,7 @@
   return txt
   ```
 - ```html
-  <a href="mailto:gowthamsurya95855@gmail.com">📫 gowthamsurya95855@gmail.com</a>
+  <a href="mailto:gowthamsurya95855@gmail.com">📫 Hire Me</a>
   ```
 
 ---
