@@ -1,24 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
-  
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/gowdham-p-83a61a206">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://user-images.githubusercontent.com/103630404/181175398-e5619dd5-f47d-40b1-aff4-f4eb7947571f.png" width="50px" alt="Twitter Badge"/>
     </a>
     <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://user-images.githubusercontent.com/103630404/181175782-37f58596-db4d-4a4e-861b-95779241f8a7.png" width="50px" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=gowtham-surya&style=flat-square&color=blue" alt=""/>
- 
-
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=gowtham-surya&style=flat-square&color=blue" width="150px" alt=""/>
+  
   <h1>
     <i>Hey there</i>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <div align="center">
-  <img src="https://exploremychoice.in/assets/images/officials/coding.gif" width="250" height="150"/>
-</div>
 </div>
 
 ###
