@@ -1,12 +1,18 @@
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/gowdham-p-83a61a206">
-      <img src="https://user-images.githubusercontent.com/103630404/181175398-e5619dd5-f47d-40b1-aff4-f4eb7947571f.png" width="50px" alt="Twitter Badge"/>
+      <img src="https://user-images.githubusercontent.com/103630404/181740594-a5ce2f18-b241-4af0-b185-9861be749799.png" width="50px" alt="Twitter Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    &emsp;
+    <a href="https://www.linkedin.com/in/gowdham-p-83a61a206">
       <img src="https://user-images.githubusercontent.com/103630404/181175782-37f58596-db4d-4a4e-861b-95779241f8a7.png" width="50px" alt="LinkedIn Badge"/>
+    </a>
+    &emsp;
+    <a href="https://www.linkedin.com/in/gowdham-p-83a61a206">
+      <img src="https://user-images.githubusercontent.com/103630404/181739423-40f45e04-68ac-40a0-9958-11314bdba285.png" width="50px" alt="LinkedIn Badge"/>
     </a>
   </div>
   <br/>
