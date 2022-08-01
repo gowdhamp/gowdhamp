@@ -33,7 +33,7 @@
   console.log("👀 I’m interested in Web and App development") 
   ```
 - ```python 
-  txt="🌱 I’m currently learning django"
+  txt="🌱 Try to Expert in M.E.R.N Stack"
   return txt
   ```
 - ```html
