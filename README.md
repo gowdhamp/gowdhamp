@@ -36,7 +36,7 @@
   return txt
   ```
 - ```html
-  <a href="mailto:gowthamsurya95855@gmail.com">📫 Hire Me</a>
+  <a href="mailto:gowdham.ee20@bitsathy.ac.in">📫 Hire Me</a>
   ```
 
 ---
@@ -52,18 +52,18 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="tailwind" title="TailwindCSS" width="40" height="40"/> </a>
 
 ### Backend:
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212643479-9f8c081e-7a9a-452d-b160-880623419eb9.png" alt="c" title="C" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212643306-7cdaeaf0-1f26-4ad1-aebf-272ce7eb1333.png" alt="cplusplus" title="C++" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" alt="express" title="Express" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212642973-dd655734-2271-4858-9398-a77453e765f7.png" alt="java" title="Java" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212642195-7bf331b9-2ff8-4cb6-bde1-08f8ade4160f.png" alt="nodejs" title="NodeJs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" alt="express" title="Express" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212640178-28add5f3-bbe1-4391-8069-8bfb8151937a.png" alt="python" title="Python" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212640073-8fa8bf0a-2c1b-4f6e-bfa8-ae84ec58042e.png" alt="PHP" title="PHP" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" title="Laravel" width="40" height="40"/> </a>
 
 
 ### Apps:
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212639526-6fb11cf6-283d-43f4-96b4-75c6ccb7aeb3.png" alt="android" title="Android" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="ReactNative" width="40" height="40"/> </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/226523892-ac6545b4-62d3-48eb-8a05-1974ee9c9020.png" alt="Flutter" title="Flutter" width="30" height="40"/> </a>
 
 ### Non Coding:
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" width="40" height="40"/> </a> 
@@ -74,7 +74,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" title="XD" width="40" height="40"/> </a> </p>
 
-### Web Services:
+### DevOps:
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="GIT" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" title="AWS" width="50" height="40"/> </a> 
