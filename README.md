@@ -202,7 +202,7 @@ ___
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gowtham-surya&theme=dark&background=000000)](https://git.io/streak-stats)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-surya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-surya&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
 Credit: [gowdham](https://github.com/gowtham-surya) <br>
 Last Edited: 03 June 2023
