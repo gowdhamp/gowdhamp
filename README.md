@@ -42,50 +42,151 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-### Frontend:
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="bootstrap" title="Bootstrap" width="50" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212644891-dab8213a-8e66-422a-9020-9e5910292b66.png" alt="css3" title="CSS3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212644788-2e71fc79-7236-4875-b3a3-0c1c09d802ec.png" alt="html5" title="HTML5" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212644661-d578f6c1-5166-4c8d-ac70-7578caa696c4.png" alt="sass" title="SASS" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212643754-af07a74b-3b98-4c97-ab90-6eeeb5c04c98.png" alt="javascript" title="JavaScript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212643619-a1431811-06b5-4539-922c-8aae29be60f4.png" alt="react" title="ReactJs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default" alt="tailwind" title="TailwindCSS" width="40" height="40"/> </a>
 
-### Backend:
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212642973-dd655734-2271-4858-9398-a77453e765f7.png" alt="java" title="Java" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212642195-7bf331b9-2ff8-4cb6-bde1-08f8ade4160f.png" alt="nodejs" title="NodeJs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" alt="express" title="Express" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212640178-28add5f3-bbe1-4391-8069-8bfb8151937a.png" alt="python" title="Python" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212640073-8fa8bf0a-2c1b-4f6e-bfa8-ae84ec58042e.png" alt="PHP" title="PHP" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" title="Laravel" width="40" height="40"/> </a>
-
-
-### Apps:
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212639526-6fb11cf6-283d-43f4-96b4-75c6ccb7aeb3.png" alt="android" title="Android" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" title="ReactNative" width="40" height="40"/> </a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/226523892-ac6545b4-62d3-48eb-8a05-1974ee9c9020.png" alt="Flutter" title="Flutter" width="30" height="40"/> </a>
-
-### Non Coding:
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" width="40" height="40"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" title="Blender" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" title="Unity" width="40" height="40"/> </a> 
-
-### UI Design:
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" title="XD" width="40" height="40"/> </a> </p>
-
-### DevOps:
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="GIT" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" title="AWS" width="50" height="40"/> </a> 
-<a href="https://docker.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212639264-4e9c7dfb-4b3c-43eb-8fe2-e244c5194fff.png" alt="docker" title="Docker" width="40" height="40"/> </a>
-
-
-### Database:
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" title="MangoDB" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103630404/212639055-68a0ecfe-995c-4c0b-a79f-690772496b9f.png" alt="mysql" title="MySQL" width="40" height="40"/> </a>
-
-
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img alt="amazonwebservices" title="amazonwebservices" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/> 
+</a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
+  <img alt="androidstudio" title="androidstudio" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> 
+</a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+  <img alt="ansible" title="ansible" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/> 
+</a>
+<a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
+  <img alt="apache" title="apache" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/> 
+</a>
+<a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"> 
+  <img alt="azure" title="azure" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/> 
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+  <img alt="bash" title="bash" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> 
+</a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+  <img alt="blender" title="blender" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/> 
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img alt="bootstrap" title="bootstrap" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> 
+</a>
+<a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> 
+  <img alt="codeigniter" title="codeigniter" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img alt="css3" title="css3" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
+</a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+  <img alt="docker" title="docker" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> 
+</a>
+<a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> 
+  <img alt="drupal" title="drupal" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg"/> 
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+  <img alt="express" title="express" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> 
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <img alt="figma" title="figma" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img alt="firebase" title="firebase" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/> 
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+  <img alt="flask" title="flask" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> 
+</a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+  <img alt="flutter" title="flutter" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img alt="git" title="git" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+</a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> 
+  <img alt="gitlab" title="gitlab" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> 
+</a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+  <img alt="googlecloud" title="googlecloud" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
+</a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+  <img alt="grafana" title="grafana" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/> 
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img alt="html5" title="html5" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+</a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+  <img alt="javascript" title="javascript" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
+</a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+  <img alt="jquery" title="jquery" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> 
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+  <img alt="laravel" title="laravel" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/> 
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img alt="linux" title="linux" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img alt="mongodb" title="mongodb" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img alt="mysql" title="mysql" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img alt="nextjs" title="nextjs" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> 
+</a>
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
+  <img alt="nginx" title="nginx" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/> 
+</a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+  <img alt="nodejs" title="nodejs" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> 
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+  <img alt="php" title="php" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+  <img alt="postgresql" title="postgresql" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+  <img alt="python" title="python" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
+</a>
+<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+  <img alt="raspberrypi" title="raspberrypi" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line.svg"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img alt="react" title="react" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> 
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+  <img alt="redux" title="redux" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/> 
+</a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <img alt="sass" title="sass" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>  
+</a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+  <img alt="selenium" title="selenium" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/> 
+</a>
+<a href="https://sqlite.org/" target="_blank" rel="noreferrer"> 
+  <img alt="sqlite" title="sqlite" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> 
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img alt="tailwindcss" title="tailwindcss" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/> 
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+  <img alt="tensorflow" title="tensorflow" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/> 
+</a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+  <img alt="terraform" title="terraform" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img alt="typescript" title="typescript" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
+</a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+  <img alt="ubuntu" title="ubuntu" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> 
+</a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+  <img alt="unity" title="unity" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/> 
+</a>
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> 
+  <img alt="wordpress" title="wordpress" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/> 
+</a>
+<a href="https://helpx.adobe.com/support/xd.html" target="_blank" rel="noreferrer"> 
+  <img alt="xd" title="xd" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"/> 
+</a>
 
 ___
 
