@@ -27,15 +27,15 @@
 ###
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, Nodejs, MongoDB, Laravel, Python**
+- 🔭 I’m currently working on **CI/CD, Cloud, Infra Automation & Monitoring**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing and DevOps.
+- ☁️ I've keen interest in **cloud computing** and **DevOps**.
 
-- 💬 Ask me about **React, React Native, Nodejs, MongoDB, Laravel, Python**
+- 💬 Ask me about **MERN stack, Laravel, Python, Scripting, Virtualization, Containerization**
 
-- 📫 Feel free to reach me out **gowdham.ee20@bitsathy.ac.in**
+- 📫 Feel free to reach me out **gowdhamp.official@gmail.com**
 <!--Intro end-->
 
 
@@ -49,6 +49,9 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<a href="https://alpinejs.dev/" target="_blank" rel="noreferrer"> 
+  <img alt="alpinejs" title="alpinejs" height=50 src="https://skillicons.dev/icons?i=alpinejs"/> 
+</a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
   <img alt="amazonwebservices" title="amazonwebservices" height=50 src="https://skillicons.dev/icons?i=aws"/> 
 </a>
@@ -157,6 +160,9 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img alt="react" title="react" height=50 src="https://skillicons.dev/icons?i=react"/> 
 </a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+  <img alt="redis" title="redis" height=50 src="https://skillicons.dev/icons?i=redis"/> 
+</a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
   <img alt="redux" title="redux" height=50 src="https://skillicons.dev/icons?i=redux"/> 
 </a>
@@ -205,7 +211,7 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-surya&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
 Credit: [gowdham](https://github.com/gowtham-surya) <br>
-Last Edited: 03 June 2023
+Last Edited: 09 July 2023
 <!---
 gowtham-surya/gowtham-surya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
