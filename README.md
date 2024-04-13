@@ -206,11 +206,11 @@
 ___
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gowtham-surya&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gowdhamp&theme=dark&background=000000)](https://git.io/streak-stats)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowtham-surya&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowdhamp&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
   
-Credit: [gowdham](https://github.com/gowtham-surya) <br>
+Credit: [gowdham](https://github.com/gowdhamp) <br>
 Last Edited: 09 July 2023
 <!---
 gowtham-surya/gowtham-surya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
